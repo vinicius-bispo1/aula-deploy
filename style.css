@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  border: solid 2px black;
+  width: 750px;
+  height: 300px;
+  background-image: url("./img/netflix.jpg");
+  color: aliceblue;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}/*# sourceMappingURL=style.css.map */
